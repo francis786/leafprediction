@@ -1,5 +1,5 @@
 import streamlit as st
-from keras.models import load_model
+from keras.modelsimport load_model
 from keras.preprocessing import image
 import numpy as np
 import json
